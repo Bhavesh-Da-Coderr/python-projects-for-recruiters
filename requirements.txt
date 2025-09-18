@@ -1,0 +1,10 @@
+echo "pdfplumber
+docx2txt
+matplotlib
+transformers
+torch
+requests
+beautifulsoup4
+wordcloud
+yfinance
+scikit-learn" > requirements.txt
